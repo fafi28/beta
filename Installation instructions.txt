@@ -1,0 +1,8 @@
+Once you have downloaded the ZIP file on your PC, follow these steps:
+
+1) Right click on the file, select 'Extract All' and follow the instructions to unzip it.
+2) Run the BlueStacksInstaller.exe file to install this Android emulator on your PC.
+3) Now, in BlueStacks, click on ‘Play Store’ and log in with your Google account.
+4) Go back to the BlueStacks home screen and drag the Tele Latino.apk file over it, and you’re good to go. 
+
+If this doesn't work, go back into 'Play Store' and search for the app to install it directly from Google Play.
